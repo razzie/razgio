@@ -1,0 +1,38 @@
+# gioui.org v0.0.0-20210909142423-e92ca233f5b1
+## explicit
+gioui.org/f32
+gioui.org/gesture
+gioui.org/internal/byteslice
+gioui.org/internal/f32color
+gioui.org/internal/fling
+gioui.org/internal/opconst
+gioui.org/internal/ops
+gioui.org/internal/scene
+gioui.org/internal/stroke
+gioui.org/io/clipboard
+gioui.org/io/event
+gioui.org/io/key
+gioui.org/io/pointer
+gioui.org/io/system
+gioui.org/layout
+gioui.org/op
+gioui.org/op/clip
+gioui.org/op/paint
+gioui.org/text
+gioui.org/unit
+gioui.org/widget
+gioui.org/widget/material
+# gioui.org/x v0.0.0-20210816192830-9ea938c228a0
+## explicit
+gioui.org/x/component
+gioui.org/x/richtext
+# golang.org/x/exp v0.0.0-20210909165118-5314dedadbaa
+## explicit
+golang.org/x/exp/shiny/iconvg
+golang.org/x/exp/shiny/iconvg/internal/gradient
+golang.org/x/exp/shiny/materialdesign/icons
+# golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
+golang.org/x/image/math/f32
+golang.org/x/image/math/f64
+golang.org/x/image/math/fixed
+golang.org/x/image/vector
